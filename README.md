@@ -4,7 +4,7 @@
 	<a href="">
 		<img src="https://freepngimg.com/thumb/naruto/34931-7-boruto-photo.png" width="45" />
 	</a>
-     Hi, I'm RiYansh GaNDHi !
+     Hi, I'm Gaurav Kumar !
 	<a href="">
 		<img src="https://freepngimg.com/thumb/naruto/34931-7-boruto-photo.png" width="45" />
 	</a>
@@ -14,9 +14,12 @@
 
 <div align=center style="display:flex; justify-content: space-around">
 <!--   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="Instagram" src="https://img.shields.io/static/v1?style=for-the-badge&message=My Website&color=55B500&logo=airplayvideo&logoColor=FFFFFF&label=" /></a> -->
-  <a href="https://www.instagram.com/riyanshgandhi_"><img alt="MAIL" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=C837AC&logo=Instagram&logoColor=FFFFFF&label=" /></a>
+ 
+<!-- comment to paste links
+ <a href="https://www.instagram.com/riyanshgandhi_"><img alt="MAIL" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=C837AC&logo=Instagram&logoColor=FFFFFF&label=" /></a>
   <a href="https://twitter.com/riyanshgandhii"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=000000&logo=x&logoColor=FFFFFF&label=" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/riyo"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+-->
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -65,7 +68,7 @@ Tech Stack
   <br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js,r&perline=5" width=210/>
+    <img src="https://skillicons.dev/icons?i=c,C++,py,html,css,js,r&perline=5" width=210/>
   </a>
 </p>
 </details>
@@ -96,7 +99,7 @@ Tech Stack
   <br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,flask,firebase,mysql,docker,postman&perline=5" width=210/>
+    <img src="https://skillicons.dev/icons?i=C++,py,flask,firebase,mysql,docker,postman&perline=5" width=210/>
   </a>
 </p>
 </details>
@@ -129,7 +132,7 @@ Tech Stack
 	</a>
 
 </h2>
-
+<!--
  <p align="center">
 	<a href="https://github.com/riyanshgandhi/Tikakaran.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=riyanshgandhi&repo=Tikakaran&theme=onedark" alt="GitHub Stats" />
@@ -137,7 +140,7 @@ Tech Stack
 	<a href="https://github.com/riyanshgandhi/telegrambot-greey.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=riyanshgandhi&repo=telegrambot-greey&theme=onedark" alt="GitHub Stats" />
     </a>
-	
+-->	
     	
   </p>
 
