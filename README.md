@@ -111,7 +111,7 @@ Tech Stack
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyanshgandhi&show_icons=true&theme=onedark&locale=en&layout=compact" alt="RiYo STats" height="230px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyanshgandhi&show_icons=true&theme=onedark&locale=en&layout=compact" alt="ZOKKO" height="230px"/>
 
 <br/>
 
