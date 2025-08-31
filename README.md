@@ -92,7 +92,6 @@ Tech Stack
 	</p>
 
 </details>
--->
 <!--
 <details align="center">
   <summary>Frontend Technologies 🎨</summary>
