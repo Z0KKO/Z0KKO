@@ -152,7 +152,7 @@ Tech Stack
 	<a href="https://github.com/riyanshgandhi/telegrambot-greey.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=riyanshgandhi&repo=telegrambot-greey&theme=onedark" alt="GitHub Stats" />
     </a>
--->	
+
     	
   </p>
 -->
@@ -194,7 +194,7 @@ Tech Stack
 	</ul>
 
 </td>
--->
+
 <!--
 <td width="50%" align="center">
  <img  align="center"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl6MmNxZWwzM2U2NHcxbndlbzgxNGR3dm9ndnB3ampvZ29mdm43biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CyCj2Kj1avdao/giphy.gif" width="100%" height="125%"/>
@@ -203,4 +203,4 @@ Tech Stack
 
 
 </table>
--->
+
