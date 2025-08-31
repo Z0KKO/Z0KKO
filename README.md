@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/riyo"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 -->
 </div>
-
+<!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2>
 <a href="">
@@ -35,6 +35,8 @@ About Me
 
 </h2>
 <div >
+	-->
+	<!--
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVqeHhxdGdyNHZ2YzVjamNuMndqd3Z0ZmRvcTd3YTkyYmM0M2Z2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SdBG6AkBwIFOLwPPsS/giphy.gif" width="250"/>
 
 <p>
@@ -48,10 +50,13 @@ About Me
 </p>
 
 </div>
-
+-->
+<!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>
+	-->
+	<!--
 <a href="">
 		<img src="https://pa1.aminoapps.com/7620/fc109fa0b90c3d49369569509ec8608253749cb5r1-400-400_00.gif" width="40" />
 	</a>
@@ -63,6 +68,8 @@ Tech Stack
 </h2>
 
 <div>
+	-->
+	<!--
 <img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZiOWFwZnVlMHV2aTd1bm10dmVpZmxneXV2a3F2M2FxeG5pNDJxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I6wUi5eTdUCWI/giphy.gif" width="400" />
 <details align="center">
   <summary>Languages 🌐</summary>
@@ -73,7 +80,8 @@ Tech Stack
   </a>
 </p>
 </details>
-	
+	-->
+	<!--
 <details align="center">
   <summary>My Tools and Software 🛠️ </summary>
   <br>
@@ -84,7 +92,8 @@ Tech Stack
 	</p>
 
 </details>
-
+-->
+<!--
 <details align="center">
   <summary>Frontend Technologies 🎨</summary>
   <br>
@@ -94,7 +103,8 @@ Tech Stack
   </a>
 </p>
 </details>
-
+-->
+<!--
 <details align="center">
   <summary>Backend Technologies 💻</summary>
   <br>
@@ -106,7 +116,8 @@ Tech Stack
 </details>
 
 
-
+-->
+<!--
 <details align="center">
 <summary>My Top Languages 🏆</summary>
 
@@ -144,13 +155,16 @@ Tech Stack
 -->	
     	
   </p>
-
+-->
+<!--
 <p align="center">
 <!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJqdDlydnM3OW81ZTNtazB2cWd1NnhlaWpzaHo1b253dnA3eXd4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F8L3qvKkiH2fe/giphy.gif" /> -->
 </p>
-
+-->
+<!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+-->
+<!--
 <h2>
 <a href="">
 		<img src="https://freepngimg.com/thumb/naruto/119440-logo-akatsuki-photos-free-download-png-hd.png" width="40" />
@@ -161,9 +175,12 @@ Tech Stack
 	</a>
 
 </h2>
-
+-->
+<!--
 <p align="center">
   <!--- stats (start) -->
+-->
+<!--
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -177,7 +194,8 @@ Tech Stack
 	</ul>
 
 </td>
-
+-->
+<!--
 <td width="50%" align="center">
  <img  align="center"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl6MmNxZWwzM2U2NHcxbndlbzgxNGR3dm9ndnB3ampvZ29mdm43biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CyCj2Kj1avdao/giphy.gif" width="100%" height="125%"/>
   </td>
